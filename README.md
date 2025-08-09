@@ -1,8 +1,8 @@
-#Lung Volume Estimation from HRCT Images
+Lung Volume Estimation from HRCT Images
 Overview
 This project aims to develop a method for estimating lung volumes from High-Resolution Computed Tomography (HRCT) scans. The approach involves image preprocessing, lung segmentation, and volume calculation based on pixel/voxel data. This non-invasive technique has potential applications in medical diagnostics and pulmonary health monitoring.
 
-#Features
+Features
 Image Preprocessing:
 
 Conversion of HRCT images to grayscale
@@ -24,7 +24,8 @@ This research is ongoing.
 Validation against clinical standards and datasets
 Refinement of volume calculation techniques
 
-#Literature Review
+Literature Review
+
 Estimating lung volume using High-Resolution Computed Tomography (HRCT) is a well-explored area with significant clinical importance. Several studies have demonstrated that volumetric analysis of lung tissue from CT images can provide valuable insights into pulmonary health, complementing traditional pulmonary function tests (PFTs).
 Automated Lung Volumetry:
 Studies such as Gevenois et al. (2003) and subsequent research have developed automated methods to segment lungs and calculate volumes from CT scans. These methods utilize thresholding and morphological operations but often struggle with accurately segmenting diseased or fibrotic lung tissue.
